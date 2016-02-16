@@ -24,6 +24,12 @@ JAVA resources for geeks in zagazing university .
 + [thenewboston's Java(Beginner) Programming Tutorials Series](https://www.youtube.com/playlist?list=PL17E300C92CE0261A)
 + [Java (Intermediate) Tutorials](https://www.youtube.com/playlist?list=PL27BCE863B6A864E3)
 
+
+###Web sites (Important)
++ [tutorialspoint](http://www.tutorialspoint.com//java/index.htm)(Highly recomended)
++ [GeeksforGeeks](http://www.geeksforgeeks.org/)
++ [Codeschool](https://www.codeschool.com/)
+
 ###Download JDK 
 [Download](http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html)
 choose your os , version and download it . 
