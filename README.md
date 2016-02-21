@@ -9,7 +9,7 @@ JAVA resources for geeks in zagazing university .
 ###PDFs
 + [introduction to java programming 9th edition pdf](http://www.manalhelal.com/Books/Introduction%20to%20Java%20Programming%20-%209th%20Edition.pdf)
 + [Java: A Beginner's Guide](http://www.oracle.com/events/global/en/java-outreach/resources/java-a-beginners-guide-1720064.pdf)
-+ []()
++ [introduction to java programming answers ](http://www.cs.armstrong.edu/liang/intro8e/solution.html)
 
 
 
